@@ -1,13 +1,14 @@
-﻿已經開始建置於 2017/10/29 下午 12:48:24。
-     1>節點 2 (Build 目標) 上的專案 "C:\Users\陳崴\Desktop\106360208_陳崴\P27\HW\HW.vcxproj"。
+﻿已經開始建置於 2018/10/23 下午 05:44:55。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\胖胖與豬\Desktop\報告\程式\work5\107360203_詹鎮豪\HW-_H3-1\P27\HW\HW.vcxproj"。
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\source\Main.c
+         H:\VisualStudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\source\Main.c
          Main.c
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\陳崴\Desktop\106360208_陳崴\P27\HW\Debug\HW.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\陳崴\Desktop\106360208_陳崴\P27\HW\Debug\HW.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\陳崴\Desktop\106360208_陳崴\P27\HW\Debug\HW.lib" /MACHINE:X86 Debug\Main.obj
-         HW.vcxproj -> C:\Users\陳崴\Desktop\106360208_陳崴\P27\HW\Debug\HW.exe
-     1>專案 "C:\Users\陳崴\Desktop\106360208_陳崴\P27\HW\HW.vcxproj" (Build 目標) 建置完成。
+         H:\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\胖胖與豬\Desktop\報告\程式\work5\107360203_詹鎮豪\HW-_H3-1\P27\HW\Debug\HW.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\胖胖與豬\Desktop\報告\程式\work5\107360203_詹鎮豪\HW-_H3-1\P27\HW\Debug\HW.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\胖胖與豬\Desktop\報告\程式\work5\107360203_詹鎮豪\HW-_H3-1\P27\HW\Debug\HW.lib" /MACHINE:X86 Debug\Main.obj
+         LINK : 最後的累加連結找不到或未建置 C:\Users\胖胖與豬\Desktop\報告\程式\work5\107360203_詹鎮豪\HW-_H3-1\P27\HW\Debug\HW.exe，正在執行完整連結
+         HW.vcxproj -> C:\Users\胖胖與豬\Desktop\報告\程式\work5\107360203_詹鎮豪\HW-_H3-1\P27\HW\Debug\HW.exe
+     1>專案 "C:\Users\胖胖與豬\Desktop\報告\程式\work5\107360203_詹鎮豪\HW-_H3-1\P27\HW\HW.vcxproj" (Build 目標) 建置完成。
 
 建置成功。
 
-經過時間 00:00:00.35
+經過時間 00:00:00.38
